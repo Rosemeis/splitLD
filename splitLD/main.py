@@ -8,12 +8,10 @@ __author__ = "Jonas Meisner"
 
 # Libraries
 import argparse
-import os
 import subprocess
 import sys
 import numpy as np
 import allel
-from datetime import datetime
 from math import ceil
 
 # Import own script
