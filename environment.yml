@@ -1,0 +1,8 @@
+name: splitLD
+channels:
+    - defaults
+dependencies:
+    - python>=3.6
+    - numpy
+    - cython
+    - scikit-allel
